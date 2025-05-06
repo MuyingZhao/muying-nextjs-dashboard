@@ -2,6 +2,19 @@
 
 This is a dashboard (a full-stack web application) using Next.js App Router.
 
+### Clone and Deploy
+
+```bash
+git clone https://github.com/MuyingZhao/muying-nextjs-dashboard.git
+```
+
+
+Then, run Next.js in development mode:
+
+```bash
+npm dev
+```
+
 An overview of features finished:
 
 1. Optimize images, links, and fonts.
